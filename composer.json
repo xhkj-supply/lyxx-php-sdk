@@ -1,0 +1,24 @@
+{
+  "name": "xhkj-supply/lyxx-php-sdk",
+  "description": "Xhkj supply lyxx API SDK for PHP",
+  "type": "library",
+  "keywords": ["supply", "xhkj", "lyxx", "sdk"],
+  "require": {
+    "php": ">=7.0"
+  },
+  "homepage": "http://qtlyxx.wzzd.cn ",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "xhkj",
+      "email": "1069945237@qq.com",
+      "homepage": "http://qtlyxx.wzzd.cn "
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "Xhkj\\Lyxx\\": "src/Xhkj/Lyxx"
+    }
+  }
+}
