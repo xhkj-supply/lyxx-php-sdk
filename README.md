@@ -42,3 +42,4 @@ $ composer require xhkj-supply/lyxx-php-sdk
 ## 云应用平台
 
 官网网址 http://qtlyxx.wzzd.cn  
+接口文档 http://qtlyxx.wzzd.cn/food/apidoc/apidocv001.html
