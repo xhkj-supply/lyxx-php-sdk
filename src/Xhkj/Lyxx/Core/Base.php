@@ -12,7 +12,7 @@ class Base
 
 	public $body = '';
 
-	public $serverRoot = 'http://qtlyxx.wzzd.cn';
+	public $serverRoot = 'http://localhost:8003';
 
 	public function __construct($app_secret, $app_key)
 	{

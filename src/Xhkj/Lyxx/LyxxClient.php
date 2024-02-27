@@ -11,7 +11,7 @@ class LyxxClient extends Base
 	public $params;
 
 	protected $getBody = [
-		'dininghall/open_api/login/gettoken'
+		'dininghall/open_api/login/gettoken','dininghall/open_api/Api/getuserinfo','dininghall/open_api/Api/orderlist'
 	];
 
 	public function __construct($appKey, $appSecret)
